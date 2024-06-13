@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alice Rocheman</h1>
 <h3 align="center">A frontend web engineer from Toulouse, France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicerocheman&label=Profile%20views&color=0e75b6&style=flat" alt="alicerocheman" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicerocheman&label=Profile%20views&color=0e75b6&style=flat" alt="alicerocheman" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicerocheman" alt="alicerocheman" /></a> </p>
 
